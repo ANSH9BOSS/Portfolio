@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local setup files
+website-builder-setup
+build.js
+build.cjs
